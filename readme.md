@@ -44,8 +44,8 @@ Untuk menjalankan proyek ini secara lokal, ikuti langkah-langkah berikut:
 1.  **Clone Repositori:**
     *(Ganti `NAMA_USERNAME_ANDA` dan `NAMA_REPO_ANDA` dengan milik Anda)*
     ```bash
-    git clone [https://github.com/NAMA_USERNAME_ANDA/NAMA_REPO_ANDA.git](https://github.com/NAMA_USERNAME_ANDA/NAMA_REPO_ANDA.git)
-    cd NAMA_REPO_ANDA
+    git clone https://github.com/Mystery-World3/nodejs-nginx-reverse-proxy.git
+    cd nodejs-nginx-reverse-proxy
     ```
 
 2.  **Siapkan Prasyarat:**
